@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Cascadia Code';
+  font-family: 'Arial';
 }
 .wrapper {
   max-width: 960px;
@@ -8,7 +8,7 @@ body {
 }
 h1 {
   margin: 40px auto;
-  color: #f51919;
+  color: #d10000;
   text-align: center;
 }
 ul {
@@ -21,7 +21,7 @@ li {
   margin: 10px auto;
 }
 li h4 {
-  color: #f51919;
+  color: #d10000;
   margin: 0;
   text-transform: capitalize;
 }
@@ -59,7 +59,7 @@ select {
 button {
   color: white;
   border: 0;
-  background: #f51919;
+  background: #d10000;
   padding: 6px;
   min-width: 80px;
   border-radius: 4px;
